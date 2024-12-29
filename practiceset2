@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PracticeSet2</title>
+</head>
+<body>
+    
+    <h1>Picture</h1>
+
+    <hr>
+    
+    
+    <p>presented here is a collection of captivating travel images, each capturing the essence of unique destinations and memorable experiences
+        <br>Here is the new line after the break.</p>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9pdzvdG5u0TRnrKVYnaUC8fVTSkSKW3FKQ&s" alt="This is 1st img">
+        <br><br>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCe5Yp1KYLFFiCAsoCwQnl9sJhnjuQqsskw&s" alt="This is 2st img">
+        <br><br>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaY6dl82xi07aVIYrGrMdUMglbRPbsVDYcUVFDea2mjdSK6p4NGthWiWco1-n1VRUbbaI&usqp=CAU" alt="This is 3rd img">
+        <br><br>
+        
+        <img src="https://i.pinimg.com/236x/ae/a6/db/aea6db1daa6e072550303cb6c9f43315.jpg" alt="This is 4th img">
+         <br><br>
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTj70MXdU13oUL9DXALikEEiSXsAqfSaaSVQ&s" alt="This is 5th img" >
+        <br><br>
+    
+    
+    <hr>
+    
+    
+    <h2>CHEMICAL EQUATION</h2>
+    <p>C + O<sub>2</sub> → CO<sub>2</sub></p>
+</body>
+</html>
+
